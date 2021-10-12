@@ -1,0 +1,11 @@
+eggs
+chicken
+pork
+rice
+potatoes
+carrots
+onions
+milk
+flour
+pasta
+juice

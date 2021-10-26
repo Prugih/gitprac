@@ -161,5 +161,9 @@ You see, I keep thinking of that sign. The one where the loop started.
 Only the children may go. All else must stay.
 
 Susan stayed behind. The bear-woman kept her, as it's kept so many others.
+<<<<<<< Updated upstream
 
 But then... why was I permitted to leave?
+=======
+second change
+>>>>>>> Stashed changes

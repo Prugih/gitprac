@@ -9,9 +9,6 @@ milk
 flour
 pasta
 juice
-<<<<<<< Updated upstream
-
-=======
 cokis
 oboy
->>>>>>> Stashed changes
+
